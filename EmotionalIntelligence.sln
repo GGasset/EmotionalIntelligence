@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmotionalIntelligence", "EmotionalIntelligence.csproj", "{04992927-60E2-4591-AF28-4B02C62509BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04992927-60E2-4591-AF28-4B02C62509BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04992927-60E2-4591-AF28-4B02C62509BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04992927-60E2-4591-AF28-4B02C62509BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04992927-60E2-4591-AF28-4B02C62509BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8D0B0FD-26B2-4B9E-80CD-6020C77CF17E}
+	EndGlobalSection
+EndGlobal
